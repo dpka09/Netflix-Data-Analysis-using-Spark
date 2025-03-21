@@ -1,5 +1,5 @@
 ### Overview
-This project uses PySpark to analyze a dataset of Netflix titles (netflix_titles.json). It performs various operations, such as filtering movies, analyzing cast appearances, and identifying movies based on specific attributes like duration and release year. The processed results are saved in specific directories for further use.
+This project uses PySpark to analyze a dataset of Netflix titles (netflix_titles.json). It performs various operations, such as filtering movies, analyzing cast appearances, and identifying movies based on specific attributes like duration and release year. The entire project workflow is orchestrated using Apache Airflow for task scheduling and management.
 
 
 ## Prerequisites
